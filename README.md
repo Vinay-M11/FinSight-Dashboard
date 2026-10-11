@@ -33,3 +33,4 @@ FinSight centralizes key financial KPIs to improve visibility into transaction p
 
 6. Screenshot / Demos  
 ![Dashboard Preview Page 1](https://github.com/Vinay-M11/FinSight-Dashboard/blob/main/Snapshot%20of%20Dashboard%20-%20Page%201.png)
+![Dashboard Preview Page 2](https://github.com/Vinay-M11/FinSight-Dashboard/blob/main/Snapshot%20of%20Dashboard%20-%20Page%202.png)
