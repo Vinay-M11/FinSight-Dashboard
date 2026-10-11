@@ -32,3 +32,4 @@ Interactive Reporting: Dynamic filtering, cross-visual analysis, page navigation
 FinSight centralizes key financial KPIs to improve visibility into transaction performance, fees, and taxes. Monthly trends and YoY comparisons help identify fluctuations in financial activity. Customer segment, state, and transaction status analysis support performance evaluation and operational improvement. Overall, the dashboard improves reporting efficiency, enables interactive exploration of financial data, and supports data-driven financial and operational decision-making.
 
 6. Screenshot / Demos  
+https://github.com/Vinay-M11/FinSight-Dashboard/blob/main/Snapshot%20of%20Dashboard%20-%20Page%201.png
